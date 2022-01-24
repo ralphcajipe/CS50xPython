@@ -1,5 +1,6 @@
 # Responds to a name
 # https://pypi.org/project/SpeechRecognition/
+# Baby steps for talking AI
 
 import re
 import speech_recognition
